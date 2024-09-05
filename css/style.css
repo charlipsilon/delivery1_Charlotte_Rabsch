@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Reddit+Sans+Condensed:wght@200..900&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #c9c9c8;
+    color: #474d4c;
+}
+
+h1,h3,h5{
+    font-family: "Reddit Sans Condensed", sans-serif;
+    text-align: center;
+}
+h1{color: #0aad90;}
+#underline{text-decoration: underline;color: #0aad90;}
+
+#notbold{font-weight: 200;}
